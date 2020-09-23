@@ -1,2 +1,4 @@
-let message="Hello World!"
-console.log(message);
+function greet(name){
+    console.log("Hello " + name)
+}
+greet("farhan");
