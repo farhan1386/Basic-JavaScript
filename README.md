@@ -8,7 +8,7 @@ JavaScript have 2 type of data type support
 * Primitive data type
 * Reference data type
 
-| Command | Description |
+| Primitives/Value Type | Reference Types |
 | --- | --- |
 | String | Object |
 | Number | Array |
